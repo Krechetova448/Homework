@@ -1,0 +1,40 @@
+header { background: no-repeat  url(img/фон1.jpg); 
+background-size: 100%; 
+margin-top: 0px;
+float: left; 
+width: 100%;
+padding-bottom: 30px;
+} 
+
+h1 {text-align: 
+	center; 
+	margin: 70px 0px;
+	padding: 30px 0px; 
+	font-size: 700%; 
+	color: #7b4d2b;
+border-top: #7b4d2b solid;
+border-bottom:#7b4d2b solid; 
+margin-bottom: 30px;
+}
+nav a {
+	color: white;
+	background: #7b4d2b;
+	margin: 0px  8%;
+	padding: 20px 25px;
+	margin-top: 10px;
+	text-decoration: none;
+	opacity: 0.9;
+}
+#left {
+	display: inline-block;
+	width: 20%;
+	float: left;
+	background: grey;
+}
+#right {
+	display: inline-block;
+	width: 70%;
+	background: pink;
+	margin: 5%
+
+}
